@@ -1,0 +1,19 @@
+
+
+.color-text {
+    color: #005677;
+    background-color: #C4C4C4;
+
+    ;}
+
+.center-text {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.titulo {
+    text-transform: uppercase;
+    color: #005677;
+    background-color: #C4C4C4;
+}
+
