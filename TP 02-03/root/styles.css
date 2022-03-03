@@ -17,3 +17,27 @@
     background-color: #C4C4C4;
 }
 
+#footer {
+    color: #FFFFFF;
+    background-color: #005677 ;
+    text-align: center;
+    word-spacing: 5px;
+}
+
+.center {
+    margin: auto;
+    padding: 10px;
+  }
+
+.achicador {
+    width: 20px;
+    height: 20px;
+}
+
+.alinear {
+    text-indent: 80px;
+}
+
+p {
+    line-height: 0.3;
+}
